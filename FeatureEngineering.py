@@ -364,3 +364,4 @@ plt.ylabel('TF-IDF score', fontsize=12)
 #plt.title("class : Clean",fontsize=15)
 #plt.xlabel('Word', fontsize=12)
 #plt.ylabel('TF-IDF score', fontsize=12)
+
